@@ -50,8 +50,11 @@ Histograms: Effectively depict the distribution of numerical data (e.g., number 
 
 Scatter Plots: Reveal relationships between two numerical features (e.g., time of day vs. accident count).
 
-Boxplots: Compare distributions of numerical data across different categories (e.g., accident severity based on road type).
+Boxplots: Compare distributions of numerical data across different categories.
 
+<img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/eda%20accusedoutput.png" alt="eda1" width="250" height="150"><img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/eda1output.png" alt="eda2" width="250" height="150"><img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/eda2output.png" alt="eda3" width="250" height="150">
+
+<img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/edadtbvtm.png" alt="eda4" width="250" height="150"><img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/generooutput.png" alt="eda5" width="250" height="150"><img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/role.png" alt="eda6" width="250" height="150">
 
 ## KPI1: Traffic Homicide Rate :white_circle:
 
