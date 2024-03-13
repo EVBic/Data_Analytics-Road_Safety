@@ -47,8 +47,12 @@ This ETL process has served as a starting point to understand the significance o
 ## EDA: :white_circle:
 
 Histograms: Effectively depict the distribution of numerical data (e.g., number of injuries) to identify potential skewness or outliers.
+
 Scatter Plots: Reveal relationships between two numerical features (e.g., time of day vs. accident count).
+
 Boxplots: Compare distributions of numerical data across different categories (e.g., accident severity based on road type).
+
+
 ## KPI1: Traffic Homicide Rate :white_circle:
 
 <img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/KP%C3%8F1-10output.png" alt="DAkpi1" width="500" height="300">
