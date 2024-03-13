@@ -73,7 +73,7 @@ Implement new measures to reduce the number of fatal accidents.
 Invest in road infrastructure to improve road safety.
 
 ## KPI2: Motorcycle Fatal Accidents :white_circle:
-![MH20-21]()
+![MH20-21](https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/kpi2output.png)
 
 Objective: Reduce the number of motorcycle fatal accidents in CABA by 7% in the last year(2021), compared to the previous year.
 
