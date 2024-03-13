@@ -46,9 +46,12 @@ This ETL process has served as a starting point to understand the significance o
 
 ## EDA: :white_circle:
 
+Histograms: Effectively depict the distribution of numerical data (e.g., number of injuries) to identify potential skewness or outliers.
+Scatter Plots: Reveal relationships between two numerical features (e.g., time of day vs. accident count).
+Boxplots: Compare distributions of numerical data across different categories (e.g., accident severity based on road type).
 ## KPI1: Traffic Homicide Rate :white_circle:
 
-![TH21-1S-2S]()
+![TH21-1S-2S](https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/KP%C3%8F1-10output.png)
 
 Objective: Reduce the traffic homicide rate in CABA by 10% in the last six months, compared to the rate of the previous semester.
 
@@ -95,26 +98,26 @@ Implement new measures to reduce the number of fatal accidents.
 Conduct studies to identify new risk factors.
 Invest in road infrastructure to improve motorcycle safety.
 
-DASHBOARD POWER BI: 
-![dbPOWERBI]()
-   
+## Power BI: :white_circle:
+![dbPOWERBI](https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/dbPBI1.png)
+
 ## Conclusion: :white_circle:
     
    IMPROVEMENT:
 
-    **Particular area** Urban Areas: The maximum speed limit on the avenues of the Autonomous City of Buenos Aires (CABA) is generally 60 km/h. However, there are exceptions for some avenues such as Figueroa Alcorta, del Libertador, 27 de Febrero, Brigadier General Juan Facundo Quiroga, and Costanera Rafael Obligado, where the maximum limit is 70 km/h. How:
-    It is proposed that the speed limit on avenues in CABA be reduced to 50 km/h. This proposal is based on research indicating that lower speed limits can significantly reduce the risk and severity of accidents.
-    Implementing this change would involve a comprehensive approach, including updating road signage to reflect the new speed limits, conducting public awareness campaigns to inform road users about the change, and enforcing the new limits through traffic policing and speed cameras.
+    Particular area, urban areas: The maximum speed limit on the avenues of the Autonomous City of Buenos Aires (CABA) is generally 60 km/h. However, there are exceptions for some avenues such       as Figueroa Alcorta, del Libertador, 27 de Febrero, Brigadier General Juan Facundo Quiroga, and Costanera Rafael Obligado, where the maximum limit is 70 km/h. How:
+    It is proposed that the speed limit on avenues in CABA be reduced to 50 km/h. This proposal is based on research indicating that lower speed limits can significantly reduce the risk and          severity of accidents.
+    Implementing this change would involve a comprehensive approach, including updating road signage to reflect the new speed limits, conducting public awareness campaigns to inform road users       about the change, and enforcing the new limits through traffic policing and speed cameras.
 
-    **Particular demographic group** It is beneficial to launch awareness and information campaigns to ensure that all stakeholders are well informed about the conditions and take them into consideration. It’s important to note that almost 60% of victims are 40 years old or younger, and 81% are male. How:
-     Therefore, these campaigns should be specifically targeted towards this demographic to maximize their effectiveness. Control speeding. Raise awareness about the importance of helmet use. Conduct alcohol and drug tests. Provide road safety courses for motorcyclists. Improve road conditions.
+    Particular demographic group: It is beneficial to launch awareness and information campaigns to ensure that all stakeholders are well informed about the conditions and take them into             consideration. It’s important to note that almost 60% of victims are 40 years old or younger, and 81% are male. How:
+    Therefore, these campaigns should be specifically targeted towards this demographic to maximize their effectiveness. Control speeding. Raise awareness about the importance of helmet use.         Conduct alcohol and drug tests. Provide road safety courses for motorcyclists. Improve road conditions.
 
-    **Sustainable public transport:** Can significantly improve weekend traffic by providing an efficient and convenient alternative to driving. How:
-      Reduced Traffic Congestion: When more people opt for public transport, fewer cars are on the road. This can significantly reduce traffic congestion, especially during peak travel times like weekends when people are more likely to go out.
-      Environmentally Friendly: Public transport is generally more fuel-efficient per passenger than private vehicles. This means less pollution and a smaller carbon footprint.
-      Cost-Effective: Using public transport can be more cost-effective than owning and maintaining a car, considering fuel, parking, insurance, and maintenance costs. This can be a significant incentive for people to choose public transport.
-      Increased Accessibility: Good public transport systems can make the city more accessible. People can travel to different parts of the city without the need for a car, which can be particularly beneficial for those who do not own a car.
-      Safety: Traveling by public transport is statistically safer than traveling by car. Reduced traffic can also potentially lead to fewer accidents.   
+    Sustainable public transport: Can significantly improve weekend traffic by providing an efficient and convenient alternative to driving. How:
+    Reduced Traffic Congestion: When more people opt for public transport, fewer cars are on the road. This can significantly reduce traffic congestion, especially during peak travel times like      weekends when people are more likely to go out.
+    Environmentally Friendly: Public transport is generally more fuel-efficient per passenger than private vehicles. This means less pollution and a smaller carbon footprint.
+    Cost-Effective: Using public transport can be more cost-effective than owning and maintaining a car, considering fuel, parking, insurance, and maintenance costs. This can be a significant        incentive for people to choose public transport.
+    Increased Accessibility: Good public transport systems can make the city more accessible. People can travel to different parts of the city without the need for a car, which can be                particularly beneficial for those who do not own a car.
+    Safety: Traveling by public transport is statistically safer than traveling by car. Reduced traffic can also potentially lead to fewer accidents.   
 
 Another possible actions:
 
@@ -131,6 +134,12 @@ Furthermore, it would be beneficial to compare these results with other similar 
 Lastly, it’s important to remember that while numbers and percentages are useful for tracking progress and making comparisons, each victim represents a human life. The ultimate goal should always be to reduce these numbers to zero, ensuring the safety of all road users.
 
 
-Info from : 
 
-https://www.argentina.gob.ar/
+
+
+Tools and Libraries:
+
+Python libraries like Pandas, NumPy, Matplotlib, and Seaborn
+
+Info from : 
+[LINK ARG GOB](https://www.argentina.gob.ar/)
