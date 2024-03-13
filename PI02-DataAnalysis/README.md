@@ -51,7 +51,7 @@ Scatter Plots: Reveal relationships between two numerical features (e.g., time o
 Boxplots: Compare distributions of numerical data across different categories (e.g., accident severity based on road type).
 ## KPI1: Traffic Homicide Rate :white_circle:
 
-![TH21-1S-2S](https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/KP%C3%8F1-10output.png)
+<img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/KP%C3%8F1-10output.png" alt="DAkpi1" width="500" height="300">
 
 Objective: Reduce the traffic homicide rate in CABA by 10% in the last six months, compared to the rate of the previous semester.
 
@@ -76,7 +76,7 @@ Implement new measures to reduce the number of fatal accidents.
 Invest in road infrastructure to improve road safety.
 
 ## KPI2: Motorcycle Fatal Accidents :white_circle:
-![MH20-21](https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/kpi2output.png)
+<img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/kpi2output.png" alt="DAkpi2" width="500" height="300">
 
 Objective: Reduce the number of motorcycle fatal accidents in CABA by 7% in the last year(2021), compared to the previous year.
 
@@ -99,8 +99,8 @@ Conduct studies to identify new risk factors.
 Invest in road infrastructure to improve motorcycle safety.
 
 ## Power BI: :white_circle:
-![dbPOWERBI](https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/dbPBI1.png)
-
+<img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/dbPBI1.png" alt="DSB1" width="500" height="300">
+<img src="https://github.com/EVBic/Data_Analytics-Road_Safety/blob/main/PI02-DataAnalysis/Images/tempv2.png" alt="DSB2" width="500" height="300">
 ## Conclusion: :white_circle:
     
    IMPROVEMENT:
